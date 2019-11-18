@@ -1,0 +1,25 @@
+{
+  "name": "express_proof",
+  "version": "1.0.0",
+  "description": "for hackathon",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ppk212@naver.com"
+  },
+  "keywords": [
+    "proof-insurance"
+  ],
+  "author": "Hyeonsu Lee",
+  "license": "ISC",
+  "dependencies": {
+    "caver-js": "^0.0.2-m",
+    "connect-privkey-to-provider": "0.0.3",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "spin.js": "4.0.0"
+  }
+}
