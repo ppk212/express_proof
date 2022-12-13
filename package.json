@@ -18,7 +18,7 @@
   "dependencies": {
     "caver-js": "^0.0.2-m",
     "connect-privkey-to-provider": "0.0.3",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "path": "^0.12.7",
     "spin.js": "4.0.0"
   }
